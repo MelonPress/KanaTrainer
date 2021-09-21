@@ -14,7 +14,7 @@ bot.on('ready', () => {
 });
 
 // Insérez le token du bot Discord
-bot.login('NDcyODEyNjY2NTI0NjYzODE4.D2U-Zg.OLXgKvpZ2atnRm6GsfEuMzz9H_4');
+bot.login('???');
 
 bot.on('message', message => {
 
